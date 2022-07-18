@@ -45,8 +45,7 @@ const questions = [
 // TODO: Create a function to write README file
 function writeToFile(answers) {
     const { title, about, install, usage, license, credits, email } = answers;
-    console.log(about);
-
+    
 if(license === 'OPEN SOURCE'){
     var badge = '[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)'
     var licenseChoice = `

@@ -1,4 +1,4 @@
-# big time
+# My Project - Test
 
 ## Table of Contents
 [Description](#description)  
@@ -10,13 +10,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-rush
+I am turning in this assignment and demonstrating the capabilities of this application created using node.js
 
 ## Install
-urhs ursula 
+install it
 
 ## Usage
-for sure
+creating readme files with ease and efficiency
 
 ## Licensing
 
@@ -38,8 +38,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ## Credits
-asf
+none
 ## Contact
-sfsfsfsfs@asfsf.com  
+andybjerk@gmail.com  
 [GitHub](https://github.com/savoryboi)
 
